@@ -1,6 +1,6 @@
 # weather
 
-A new Flutter project.
+A simple weather app. Flutter-based.
 
 ## Getting Started
 
